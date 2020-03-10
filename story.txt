@@ -2,8 +2,7 @@ Once upon a time, there was a person named John Jacobs Jacobsen Johannesburg. Pe
 day when he realized he had to pick his grandmother up from the airport. But he was too late now. He saw his grandmother coming 
 home in a taxi. He was scolded for about two hours for this incident and his grandmother was very upset, but they eventually had
 a nice dinner together.
-<<<<<<< HEAD
+
 However, John was shocked to find out his grandmother had been at the head of an international robbery scheme. John had no idea what to think. He now 
 understood why his grandmother was so angry about getting picked up, because she was on the most wanted list. John called his grandmother to find out the truth.
-=======
->>>>>>> 76e2d686dea1a375b73579e5989055a7817b825f
+
